@@ -41,10 +41,10 @@ Robot Avoiding Obstacle with servo for rotate HC-SR04 Radar scanner
 
 1. Tambahkan Library
    [NewPing Library](https://downloads.arduino.cc/libraries/bitbucket.org/teckel12/NewPing-1.9.7.zip)
-   <img src="NewPing.jpg" width="200" height="400"></img>
+    <br/> <img src="NewPing.jpg" width="200" height="400"></img>
 2. Tambahkan Library
    [Adafruit Motor Shield v1 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_Motor_Shield_library-1.0.1.zip)
-   <img src="Adafruit.jpg" width="200" height="400"></img>
+   <br/><img src="Adafruit.jpg" width="200" height="400"></img>
 3. Tambahkan Library
    [Servo](https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Servo-1.1.8.zip)
 <br/>Berikut Codenya.
