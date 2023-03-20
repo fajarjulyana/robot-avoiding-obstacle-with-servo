@@ -47,6 +47,7 @@ Robot Avoiding Obstacle with servo for rotate HC-SR04 Radar scanner
    <br/><img src="Adafruit.jpg" width="200" height="400"></img>
 3. Tambahkan Library
    [Servo](https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Servo-1.1.8.zip)
+ <br/><img src="Servo.jpg" width="200" height="400"></img>
 <br/>Berikut Codenya.
 https://github.com/fajarjulyana/robot-avoiding-obstacle-with-servo/blob/89e8e0f13020b5c2f6b7967a66b0c989fab63f70/src/code.cpp#L8-L17
 
